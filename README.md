@@ -3,5 +3,17 @@ Hi, I am Julian Archuleta, an undergraduate at Weber State University Majoring i
 ## Projects
 Below are projects I have worked on!
 ### [Banking Application](https://github.com/JulianArchuleta/Portfolio/tree/main/Banking-Application)
+Full Stack Banking App
+There are three Roles with different permissions based on each role.
+- Admin
+   - a
+   - 
+- Employees
+   - a
+   - 
+- Customers
+   - a
+   - 
+
 ### [Hangman](https://github.com/JulianArchuleta/Portfolio/tree/main/Hangman)
 
