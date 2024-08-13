@@ -3,5 +3,5 @@ Hi, I am Julian Archuleta, an undergraduate at Weber State University Majoring i
 ## Projects
 Below are projects I have worked on!
 ### [Banking Application](https://github.com/JulianArchuleta/Portfolio/tree/main/Banking-Application)
-### Hangman
+### [Hangman](https://github.com/JulianArchuleta/Portfolio/tree/main/Hangman)
 
