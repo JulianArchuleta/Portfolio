@@ -75,11 +75,11 @@ Collaboration and Code Management:
 ### Summary: 
 This project highlights my ability to work in a team, manage version control, and develop a complete, interactive web-based game with a focus on both functionality and user experience.
 
-## [Connect Four Game Development: React-Based Project](https://github.com/julianarchuleta/Portfolio/tree/main/connect-4)
+## [Connect Four Game Development: React-Based Project](https://github.com/julianarchuleta/Portfolio/tree/main/connect-four)
 
 > Click the link above to view the code in GitHub!
 
-![connect four gif demo](/gifs/connect-4.gif)
+![connect four gif demo](/gifs/connect-four.gif)
 
 In this project, I extended a basic tic-tac-toe example into a fully functional Connect Four game using React. The assignment focused on learning and applying React concepts while building a classic board game.
 
