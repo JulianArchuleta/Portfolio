@@ -4,7 +4,6 @@ Hi, I am **Julian Archuleta**, an undergraduate at **Weber State University** Ma
 Below are projects I have worked on!
 ## [Banking Application](https://github.com/JulianArchuleta/Portfolio/tree/main/Banking-Application)
 
-> [!NOTE]
 > Click the link above to view the code in GitHub!
 
 ![Banking app gif demo](/gifs/banking-app.gif)
@@ -42,7 +41,6 @@ This project showcases my ability to design and implement a full-stack applicati
 
 ## [Hangman](https://github.com/JulianArchuleta/Portfolio/tree/main/Hangman)
 
-> [!NOTE]
 > Click the link above to view the code in GitHub!
 
 ![hangman gif demo game](/gifs/hangman-game.gif)
