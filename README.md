@@ -6,8 +6,8 @@ Below are projects I have worked on!
 
 > Click the link above to view the code in GitHub!
 
-![Banking app gif demo](/gifs/banking-app.gif)
-###Description
+! [Banking app gif demo](/gifs/banking-app.gif)
+### Description
 Banking Application Development: Full-Stack Implementation
 
 I transformed a basic banking application into a fully developed, role-based system with a React front end and a MongoDB/Node.js/Express backend. The application now supports three distinct user roles: Administrator, Employee, and Customer, each with tailored permissions and functionalities.
