@@ -75,7 +75,26 @@ Collaboration and Code Management:
 ### Summary: 
 This project highlights my ability to work in a team, manage version control, and develop a complete, interactive web-based game with a focus on both functionality and user experience.
 
+## [Connect Four Game Development: React-Based Project](https://github.com/julianarchuleta/Portfolio/tree/main/connect-4)
 
+> Click the link above to view the code in GitHub!
 
+![connect four gif demo](/gifs/connect-4.gif)
 
+In this project, I extended a basic tic-tac-toe example into a fully functional Connect Four game using React. The assignment focused on learning and applying React concepts while building a classic board game.
 
+Game Logic:
+
+- **6x7 Board Layout**:
+    - The game features a 6-row by 7-column board where players can drop their tiles into any column with available space.
+- **Tile Dropping Mechanism**:
+    - Clicking on a column causes the tile to drop into the lowest available spot. If the column is full, the click does nothing.
+Winning and Tie Detection: The game automatically detects and announces a winner when four tiles align horizontally, vertically, or diagonally. It also recognizes and declares a tie if the board fills up without a winner.
+- **Turn Management**:
+    - The game seamlessly switches turns between players after each tile placement.
+- **Additional Features**:
+    - Colored Tiles: The tiles are visually distinguished by color, enhancing the gameplay experience.
+    - React Learning Focus: While the game is fully functional, the emphasis was on mastering React, with a simpler, non-animated UI.
+
+### Summary:
+This project demonstrates my ability to implement game logic in React, manage state, and create an interactive user experience.
