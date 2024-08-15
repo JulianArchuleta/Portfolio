@@ -93,7 +93,6 @@ Winning and Tie Detection: The game automatically detects and announces a winner
 - **Turn Management**:
     - The game seamlessly switches turns between players after each tile placement.
 - **Additional Features**:
-    - Colored Tiles: The tiles are visually distinguished by color, enhancing the gameplay experience.
     - React Learning Focus: While the game is fully functional, the emphasis was on mastering React, with a simpler, non-animated UI.
 
 ### Summary:
